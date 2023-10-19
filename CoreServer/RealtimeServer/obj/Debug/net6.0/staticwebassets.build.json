@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TvSZotmgNCIpHhCQSqzBMlVfw0PcZ3d0kCEn7Hs2mKE=",
+  "Source": "RealtimeServer",
+  "BasePath": "_content/RealtimeServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

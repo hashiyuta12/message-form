@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ay26sQEzirdcO6MolPwHiO7eWAEYBexrmShrTg00QNrDKUSIKAIGu6Eu0nlCAqErI8Ly4FgT4avL/UAusHENug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hayu_\\Desktop\\Project\\C#\\message form\\CoreServer\\RealtimeServer\\RealtimeServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hayu_\\.nuget\\packages\\grpc.aspnetcore.server\\2.34.0\\grpc.aspnetcore.server.2.34.0.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\grpc.core.api\\2.35.0\\grpc.core.api.2.35.0.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\grpc.net.client\\2.34.0\\grpc.net.client.2.34.0.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\grpc.net.common\\2.34.0\\grpc.net.common.2.34.0.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\magiconion\\5.1.8\\magiconion.5.1.8.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\magiconion.abstractions\\5.1.8\\magiconion.abstractions.5.1.8.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\magiconion.client\\5.1.8\\magiconion.client.5.1.8.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\magiconion.server\\5.1.8\\magiconion.server.5.1.8.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\magiconion.shared\\5.1.8\\magiconion.shared.5.1.8.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\messagepack\\2.2.85\\messagepack.2.2.85.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\messagepack.annotations\\2.2.85\\messagepack.annotations.2.2.85.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\system.reflection.emit\\4.6.0\\system.reflection.emit.4.6.0.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\system.reflection.emit.lightweight\\4.6.0\\system.reflection.emit.lightweight.4.6.0.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\hayu_\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
